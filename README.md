@@ -1,3 +1,3 @@
-- create react app
-- create components header, menu, loginform
-- authentification react JWT et récuperer le Token et Token Refresh.
+- Create react app
+- Create components header, menu, loginform
+- Authentification react JWT et récuperer le Token et Token Refresh.
